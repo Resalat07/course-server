@@ -25,7 +25,7 @@ app.get('/course' ,(req , res)=>{
 
 
 app.get('/', (req, res) => {
-  res.send('course data')
+  res.send('Here is the main page')
 })
 
 app.listen(port, () => {
