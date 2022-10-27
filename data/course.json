@@ -1,0 +1,63 @@
+[
+    
+    {
+      "_id": "63592041382690a3d63ac1b1",
+      "course_id":"01",
+      "isActive": false,
+      "Price": "$50",
+      "picture": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "description": "Are you excited to get into the world of UI/UX but you don't know where to start? This course will allow you to add UX designer to your CV & start getting paid for your new skills. Hi there! My name is Dan & I’m an Adobe Certified Instructor. I’m here to help you learn Adobe XD efficiently and comprehensively. XD is a fantastic design tool used by industry professionals to product high quality & functional mockups. By the end of this course, you will be able to produce practical and effective User Experience (UX) and User Interface (UI) designs.",
+      "requirements":"You will need a copy of Adobe XD 2019 or above. A free trial can be downloaded from Adobe.No previous design experience is needed.No previous Adobe XD skills are needed.",
+      "headerName": "UX/UI Design"
+    },
+    {
+      "_id": "63592041f2d6dde834cc0e87",
+      "course_id": "02",
+      "isActive": false,
+      "Price": "$80",
+      "picture": "https://miro.medium.com/max/720/1*YQgaKfVzK-YpxyT3NYqJAg.png",
+      "description":"Join the most comprehensive and in-depth JavaScript course on Udemy and learn JavaScript from the ground up, in great detail with this bestselling course! JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer!",
+      "requirements":"NO prior JavaScript knowledge is required. Basic web development knowledge is recommended. Basic understanding of HTML and CSS helps but is NOT required",
+      "headerName": "JavaScript"
+    },
+    {
+      "_id": "63592041fbf4ce4586689741",
+      "course_id": "03",
+      "isActive": false,
+      "Price": "$60",
+      "picture": "https://i.pinimg.com/736x/5a/8d/c7/5a8dc75bbed8c2eb087c6e05500a644b.jpg",
+      "description":"Become a Python Programmer and learn one of employer's most requested skills of 2022! This is the most comprehensive, yet straight-forward, course for the Python programming language ! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.",
+      "requirements":"Access to a computer with an internet connection",
+      "headerName": "PYthon"
+    },
+    {
+      "_id": "63592041deed04cee4a3e593",
+      "course_id": "04",
+      "isActive": false,
+      "Price": "$39",
+      "picture": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+      "description":"Which programming language is often seen as a badge of honor among software developers?  C++ ...Which programming language can you learn that when added to your resume,  will often get you a job interview?  C++ ..Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++",
+      "requirements":"Access to a computer running Windows, Mac OS X or Linux",
+      "headerName": "C++"
+    },
+    {
+      "_id": "6359204118bc1e8d51e76ade",
+      "course_id": "05",
+      "isActive": true,
+      "Price": "$49",
+      "picture": "https://freerangestock.com/sample/119557/web-developer--web-development--programmer--programming.jpg",
+      "description":"Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer,this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery",
+      "requirements":"No programming experience needed - I'll teach you everything you need to know .A computer with access to the internet .No paid software required .I'll walk you through, step-by-step how to get all the software installed and set up",
+      "headerName": "Web Development"
+    },
+    {
+      "_id": "63592041f1806497cb92d785",
+      "course_id": "06",
+      "isActive": false,
+      "Price": "$90nodemon ",
+      "picture": "https://timesit.org/wp-content/uploads/2022/07/digital-marketing.jpg",
+      "description":" This is one of the most comprehensive digital marketing courses available. We'll cover SEO, YouTube Marketing, Facebook Marketing, Google Adwords, Google Analytics and more!",
+      "requirements":"No experience required .Suitable for all types of businesses (digital product, physical product, service, B2B, B2C).",
+      "headerName": "Digital Marketing"
+    }
+  ]
